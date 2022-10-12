@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/streetmain/main.luaV2
 
 DaHoodSettings.Prediction = 0.148357
 
-getgenv().Aiming.TargetPart = {"Head", "HumanoidRootPart", "LowerTorso"}
+getgenv().Aiming.TargetPart = {"Head", "HumanoidRootPart", "RightFoot"}
 
 getgenv().Aiming.HitChance = 110
 
